@@ -15,7 +15,7 @@ For detailed information on the underlying REST API, endpoints, and authenticati
 ## Installation
 
 ```bash
-go get github.com/Businnect/businnect_go
+go get github.com/BusinnectCode/businnect_go
 
 ```
 
@@ -26,7 +26,7 @@ go get github.com/Businnect/businnect_go
 The client can be initialized with an explicit API key or automatically look for environment variables.
 
 ```go
-import "github.com/Businnect/businnect_go"
+import "github.com/BusinnectCode/businnect_go"
 
 func main() {
     // Pass the API key and Base URL

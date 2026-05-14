@@ -5,8 +5,8 @@ import (
 	"os"
 	"testing"
 
-	businnect "github.com/Businnect/businnect_go"
-	"github.com/Businnect/businnect_go/resources"
+	businnect "github.com/BusinnectCode/businnect_go"
+	"github.com/BusinnectCode/businnect_go/resources"
 )
 
 func TestClientCreateMicropost_Integration(t *testing.T) {

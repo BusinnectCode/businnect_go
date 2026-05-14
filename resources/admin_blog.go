@@ -7,8 +7,8 @@ import (
 	"net/url"
 	"strconv"
 
-	"github.com/Businnect/businnect_go/interfaces"
-	"github.com/Businnect/businnect_go/schemas"
+	"github.com/BusinnectCode/businnect_go/interfaces"
+	"github.com/BusinnectCode/businnect_go/schemas"
 )
 
 type AdminBlogResource struct {

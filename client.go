@@ -8,7 +8,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/Businnect/businnect_go/resources"
+	"github.com/BusinnectCode/businnect_go/resources"
 )
 
 type Client struct {
